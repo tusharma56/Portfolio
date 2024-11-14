@@ -136,7 +136,7 @@ export const education = [
   {
    
     school: "G.D. Public Sr. Sec. School, Aligarh, Uttar Pradesh",
-    date: "Apr 2017 - Apr 2019",
+    date: "Apr 2018 - Apr 2019",
     grade: "70%",
     desc: "I completed my class 10th education at G.D. Public Sr. Sec. School, where I studied Science with Computer Application.",
     degree: "CBSE(X), Science with Computer",
